@@ -1,2 +1,2 @@
 # hello-world
-Tutorial?
+Tutorial? More like step-by-step guide
